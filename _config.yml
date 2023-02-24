@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: fernandoxbernalxavila/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -9,23 +9,23 @@ version: 2
 name: Fernando Bernal Avila
 title: computer engineering student
 email: fernando.bernal1133@alumnos.udg.mx
-website: www.github.com/fernandoxbernalxavila/resume-theme
+website: https://www.instagram.com/its.fernando.bernal/
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: srdenigrante11
+github_username:  FernandoxBernalxAvila
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: Fernando Bernal Avila
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: its.fernando.bernal
+linkedin_username: Fernando Bernal Avila
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: its.fernando.bernal
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: yo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
