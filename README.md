@@ -1,1 +1,0 @@
-# FernandoxBernalxAvila.github.io
