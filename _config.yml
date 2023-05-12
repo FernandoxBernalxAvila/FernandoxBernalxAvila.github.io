@@ -50,7 +50,7 @@ about_profile_image: yo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Fernando Bernal, I am currently a Computer Engineering student in Cucei in the 7th semester of my degree.
 
-  I am most skilled in: <mark>Hot Wheels</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Hot Wheels</mark> and <mark>Eating Tacos</mark>
 
 content:
   - title: Projects # Title for the section
